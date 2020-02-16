@@ -1,5 +1,5 @@
 const batteryBatches = [4, 5, 3, 4, 4, 6, 5];
 
 // Code your solution here
-let totalBatteries = batteryBatches.reduce((sumBatches, eachBatch)=> sum + e, 0;
+let totalBatteries = batteryBatches.reduce((sumBatches, eachBatch)=> sumBatches + eachBatch, 0;
 return totalBatteries
